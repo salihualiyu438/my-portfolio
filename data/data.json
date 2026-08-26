@@ -1,0 +1,132 @@
+{
+  "portfolioOwner": {
+    "id": "person-001",
+    "name": "Salihu Aliyu",
+    "title": "Future Computer Engineer",
+    "institution": "Ahmadu Bello University, Zaria",
+    "department": "Computer Engineering",
+    "country": "Nigeria"
+  },
+
+  "education": [
+    {
+      "id": "edu-001",
+      "qualification": "Bachelor of Engineering",
+      "field": "Computer Engineering",
+      "institution": "Ahmadu Bello University, Zaria",
+      "expectedGraduation": "2026",
+      "status": "In Progress"
+    }
+  ],
+
+  "technicalSkills": {
+    "programming": [
+      "Python",
+      "Java",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+
+    "artificialIntelligence": [
+      "Machine Learning",
+      "automatic speech recognition",
+      "Deep Learning",
+      "Computer Vision",
+      "YOLO Object Detection"
+    ],
+
+    "frameworksAndLibraries": [
+      "TensorFlow",
+      "PyTorch",
+      "OpenCV",
+      "Django",
+      "FastAPI"
+    ],
+
+    "developmentTools": [
+      "Visual Studio Code",
+      "GitHub",
+      "roboflow",
+      "Google Colab",
+      "Kaggle",
+      "LabelImg"
+    ]
+  },
+
+  "projects": [
+    {
+      "id": "project-001",
+      "title": "AI-Based Perimeter Surveillance and Threat Detection System",
+      "date": "2026",
+      "category": "Artificial Intelligence and Computer Vision",
+      "description": "An intelligent surveillance system designed to monitor protected environments using computer vision and object detection.",
+      "technologies": [
+        "Python",
+        "YOLO",
+        "OpenCV",
+        "FastAPI"
+      ],
+      "image_url": "assets/images/project-surveillance.jpg"
+    },
+
+    {
+      "id": "project-002",
+      "title": "Intelligent Exam Hall Monitoring System",
+      "date": "2026",
+      "category": "Computer Vision",
+      "description": "A computer vision-based system designed to monitor examination environments and identify selected suspicious behaviours.",
+      "technologies": [
+        "Python",
+        "YOLOv8",
+        "OpenCV",
+        "Django"
+      ],
+      "image_url": "assets/images/project-exam-monitoring.jpg"
+    },
+
+    {
+      "id": "project-003",
+      "title": "Speech Emotion Recognition System",
+      "date": "2026",
+      "category": "Machine Learning and Deep Learning",
+      "description": "A machine learning system that classifies human speech into emotional categories using spectrogram representations and deep learning.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "MobileNetV3"
+      ],
+      "image_url": "assets/images/project-emotion.jpg"
+    }
+  ],
+
+  "hobbiesAndInterests": [
+    {
+      "id": "interest-001",
+      "title": "Technology Exploration"
+    },
+    {
+      "id": "interest-002",
+      "title": "Programming"
+    },
+    {
+      "id": "interest-003",
+      "title": "World News"
+    },
+    {
+      "id": "interest-004",
+      "title": "Artificial Intelligence Research"
+    },
+    {
+      "id": "interest-005",
+      "title": "Problem Solving"
+    }
+    
+  ],
+
+  "contact": {
+    "email": "salihualiyu438@gmail.com.com",
+    "phone": "+234 708 678 3353",
+    "country": "Nigeria"
+  }
+}
